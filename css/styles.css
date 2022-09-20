@@ -101,3 +101,16 @@ padding: 7% 15%;
     border-radius: 100%;
     margin: 20px;
 }
+
+/* press Section */
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
