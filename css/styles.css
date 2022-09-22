@@ -117,7 +117,16 @@ padding: 7% 15%;
 
 /* Pricing Section */
 
-#pricing{
+#pricing {
+    padding: 100px;
     text-align: center;
-    margin: 7% 15%;
-}
+  }
+  
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 2%;
+  }
